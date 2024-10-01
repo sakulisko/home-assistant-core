@@ -132,6 +132,7 @@ FLOWS = {
         "dlna_dmr",
         "dlna_dms",
         "dnsip",
+        "dom",
         "doorbird",
         "dormakaba_dkey",
         "downloader",

@@ -1,0 +1,14 @@
+{
+  "domain": "dom",
+  "name": "Cez HDO",
+  "codeowners": ["@sakulisko"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/dom",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "single_config_entry": true,
+  "ssdp": [],
+  "zeroconf": []
+}
