@@ -1,5 +1,5 @@
 {
-  "domain": "dom",
+  "domain": "cez_distribuce_3",
   "name": "Cez HDO",
   "codeowners": ["@sakulisko"],
   "config_flow": true,

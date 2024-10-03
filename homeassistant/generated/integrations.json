@@ -877,6 +877,13 @@
       "config_flow": true,
       "iot_class": "cloud_polling"
     },
+    "cez_distribuce_3": {
+      "name": "Cez HDO",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "cloud_polling",
+      "single_config_entry": true
+    },
     "chacon_dio": {
       "name": "Chacon DiO",
       "integration_type": "hub",
@@ -1296,13 +1303,6 @@
       "integration_type": "hub",
       "config_flow": true,
       "iot_class": "cloud_polling"
-    },
-    "dom": {
-      "name": "Cez HDO",
-      "integration_type": "hub",
-      "config_flow": true,
-      "iot_class": "cloud_polling",
-      "single_config_entry": true
     },
     "dominos": {
       "name": "Dominos Pizza",
