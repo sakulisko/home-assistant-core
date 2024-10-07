@@ -1,6 +1,6 @@
 {
   "domain": "cez_distribuce_3",
-  "name": "Cez HDO",
+  "name": "Cez HDO 3",
   "codeowners": ["@sakulisko"],
   "config_flow": true,
   "dependencies": [],

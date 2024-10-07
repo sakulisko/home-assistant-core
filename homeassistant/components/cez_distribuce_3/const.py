@@ -1,3 +1,3 @@
 """Constants for the Cez HDO integration."""
 
-DOMAIN = "dom"
+DOMAIN = "cez_distribuce_3"
